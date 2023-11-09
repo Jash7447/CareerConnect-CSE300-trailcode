@@ -22,6 +22,15 @@ To run CareerConnect, you'll need the following:
 
 - Node.js: Make sure you have Node.js installed. You can download it [here](https://nodejs.org/).
 
+### Tech
+
+Nextjs
+tailwind css
+Redux toolkit
+joi validation
+mongoDB
+SWR hooks for fetching API
+
 ### Installation
 
 1. Clone the repository:
